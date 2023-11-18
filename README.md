@@ -9,7 +9,7 @@ https://simpleicons.org/
 -->
 
 [![Linkedin](https://img.shields.io/badge/-Vladyslav%20Kramarenko-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/vladyslav-kramarenko/)
-[![Mail](https://img.shields.io/badge/-kramarenko.vladyslav.92@gmail.com-blue?logo=Gmail&logoColor=EA4335&labelColor=white)](mailto:kramarenko.vkadyslav.92@gmail.com)
+[![Mail](https://img.shields.io/badge/-kramarenko.vladyslav.92@gmail.com-blue?logo=Gmail&logoColor=EA4335&labelColor=white)](mailto:kramarenko.vladyslav.92@gmail.com)
 [![Telegram](https://img.shields.io/badge/-@KramarenkoVlad-26A5E4?logo=telegram&logoColor=26A5E4&labelColor=white)](https://t.me/KramarenkoVlad)
 <br>
 <h2 align='center'><samp><strong>Hi there 👋, I am Vlad Kramarenko</strong></samp></h2>
