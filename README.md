@@ -7,7 +7,6 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
-
 [![Linkedin](https://img.shields.io/badge/-Vladyslav%20Kramarenko-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/vladyslav-kramarenko/)
 [![Mail](https://img.shields.io/badge/-kramarenko.vladyslav.92@gmail.com-blue?logo=Gmail&logoColor=EA4335&labelColor=white)](mailto:kramarenko.vladyslav.92@gmail.com)
 [![Telegram](https://img.shields.io/badge/-@KramarenkoVlad-26A5E4?logo=telegram&logoColor=26A5E4&labelColor=white)](https://t.me/KramarenkoVlad)
