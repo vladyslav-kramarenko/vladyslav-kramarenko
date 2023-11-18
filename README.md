@@ -29,18 +29,22 @@ https://simpleicons.org/
 </p>
 
 💻 **Languages and Tools:** 🛠️<br>
+
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab&logoColor=FC6D26&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=oracle&logoColor=F80000&labelColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=6DB33F&labelColor=ffffff)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=6DB33F&labelColor=ffffff)
+![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F&labelColor=ffffff)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=springboot&logoColor=6DB33F&labelColor=ffffff)
+![Junit 5](https://img.shields.io/badge/-jUnit-000000?style=flat&logo=junit5&logoColor=ffffff&labelColor=25A162)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven&logoColor=C71A36&labelColor=000000)
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=02303A&labelColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&labelColor=#3776AB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
+![Apache Tomcat](https://img.shields.io/badge/-Tomcat-000000?style=flat&logo=apachetomcat&logoColor=000000&labelColor=F8DC75)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins&logoColor=000000&labelColor=D24939)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazonaws&logoColor=ffffff&labelColor=#232F3E)
 ![Amazon API Gateway](https://img.shields.io/badge/-API_Gateway-000000?style=flat&logo=amazonapigateway&logoColor=ffffff&labelColor=FF4F8B)
 ![AWS Lambda](https://img.shields.io/badge/-Lambda-000000?style=flat&logo=awslambda&logoColor=ffffff&labelColor=FF9900)
@@ -54,7 +58,7 @@ https://simpleicons.org/
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest)
+![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&labelColor=C21325)
 
 <!-- Connect Section -->
 <h2 align="center">Let's Connect! 🤝</h2>
