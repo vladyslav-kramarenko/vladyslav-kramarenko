@@ -41,7 +41,7 @@ https://simpleicons.org/
 ![Selenium](https://img.shields.io/badge/-Selenium-000000?style=flat&logo=selenium&logoColor=ffffff&labelColor=43B02A)
 ![Maven](https://img.shields.io/badge/-Maven-000000?style=flat&logo=apachemaven&logoColor=ffffff&labelColor=C71A36)
 ![Gradle](https://img.shields.io/badge/-Gradle-000000?style=flat&logo=gradle&logoColor=ffffff&labelColor=02303A)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&labelColor=#3776AB)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=3776AB&labelColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
 ![Apache Tomcat](https://img.shields.io/badge/-Tomcat-000000?style=flat&logo=apachetomcat&logoColor=000000&labelColor=F8DC75)
