@@ -19,6 +19,9 @@ https://simpleicons.org/
   <a href="https://www.credly.com/badges/a580dc34-75db-4813-b293-f644c5d47e82">
     <img src="https://www.kramarenko.info/assets/img/badges/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect – Associate" width="120" height="120">
   </a>
+  <a href="https://www.credly.com/badges/831f82bc-bb2a-4897-bbd1-d8e718c7fce7/public_url">
+    <img src="https://www.kramarenko.info/assets/img/badges/aws-knowledge-aws-for-games-cloud-game-development.png" alt="AWS Knowledge: aws for games: cloud game development" width="120" height="120">
+  </a>
   <a href="https://www.credly.com/badges/0e83ed2f-e3d2-420e-bd99-df4b72c08769">
     <img src="https://www.kramarenko.info/assets/img/badges/aws-knowledge-storage-technologist.png" alt="AWS Knowledge: Storage Technologist" width="120" height="120">
   </a>
