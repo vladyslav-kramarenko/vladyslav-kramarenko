@@ -11,11 +11,11 @@ https://simpleicons.org/
 [![Mail](https://img.shields.io/badge/-kramarenko.vladyslav.92@gmail.com-blue?logo=Gmail&logoColor=EA4335&labelColor=white)](mailto:kramarenko.vladyslav.92@gmail.com)
 [![Telegram](https://img.shields.io/badge/-@KramarenkoVlad-26A5E4?logo=telegram&logoColor=26A5E4&labelColor=white)](https://t.me/KramarenkoVlad)
 <br>
-<h2 align='center'><samp><strong>Hi there 👋, I am Vlad Kramarenko</strong></samp></h2>
-<h3 align='center'><strong><a href="https://kramarenko.info/" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'> Java Developer | Web Developer | Bringing Ideas to Life</p>
+<h2 align='left'><samp><strong>Hi there 👋, I am Vlad Kramarenko</strong></samp></h2>
+<h3 align='left'><strong><a href="https://kramarenko.info/" target="_blank">Portfolio🌐</a></strong></h3>
+<p align='left'> Java Developer | Web Developer | Bringing Ideas to Life</p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.credly.com/badges/a580dc34-75db-4813-b293-f644c5d47e82">
     <img src="https://www.kramarenko.info/assets/img/badges/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect – Associate" width="120" height="120">
   </a>
@@ -29,6 +29,8 @@ https://simpleicons.org/
     <img src="https://www.kramarenko.info/assets/img/badges/wes.png" alt="Verified International Academic Qualifications" width="110" height="110">
   </a>
 </p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/kramarenkoVlad?theme=nord)
 
 💻 **Languages and Tools:** 🛠️<br>
 
