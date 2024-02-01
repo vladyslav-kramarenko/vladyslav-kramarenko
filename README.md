@@ -12,7 +12,7 @@ https://simpleicons.org/
 [![Telegram](https://img.shields.io/badge/-@KramarenkoVlad-26A5E4?logo=telegram&logoColor=26A5E4&labelColor=white)](https://t.me/KramarenkoVlad)
 <br>
 <h2 align='left'><samp><strong>Hi there 👋, I am Vlad Kramarenko</strong></samp></h2>
-<h3 align='left'><strong><a href="https://kramarenko.info/" target="_blank">Portfolio🌐</a></strong></h3>
+<h3 align='left'><strong><a href="https://kramarenko.info/?utm_source=github" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='left'> Java Developer | Web Developer | Bringing Ideas to Life</p>
 
 <p align="left">
