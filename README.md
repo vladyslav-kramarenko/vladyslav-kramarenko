@@ -22,6 +22,9 @@ https://simpleicons.org/
   <a href="https://www.credly.com/badges/c717886f-e53d-4353-9b1a-69f98a97cc44/public_url">
     <img src="https://www.kramarenko.info/assets/img/badges/aws-certified-developer-associate.png" alt="AWS Certified Developer – Associate" width="120" height="120">
   </a>
+  <a href="https://www.credly.com/badges/0f272845-deaa-42ed-83ba-97c607ba1103/public_url">
+<img src="https://www.kramarenko.info/assets/img/badges/meta-front-end-developer-certificate.png" alt = "" width ="120" height="120">
+</a>
   <a href="https://www.credly.com/badges/0e83ed2f-e3d2-420e-bd99-df4b72c08769">
     <img src="https://www.kramarenko.info/assets/img/badges/aws-knowledge-storage-technologist.png" alt="AWS Knowledge: Storage Technologist" width="120" height="120">
   </a>
