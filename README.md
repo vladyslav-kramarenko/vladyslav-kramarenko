@@ -56,6 +56,7 @@ https://simpleicons.org/
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=ffffff&labelColor=2496ED)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins&logoColor=000000&labelColor=D24939)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
