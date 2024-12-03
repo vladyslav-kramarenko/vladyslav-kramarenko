@@ -13,7 +13,7 @@ https://simpleicons.org/
 <br>
 <h2 align='left'><samp><strong>Hi there 👋, I am Vlad Kramarenko</strong></samp></h2>
 <h3 align='left'><strong><a href="https://kramarenko.info/?utm_source=github" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='left'> IT Head at ZHYTLOBUD-2 | Full-Stack Developer | Bringing Ideas to Life</p>
+<p align='left'> IT Coordinator | Full-Stack Developer | Bringing Ideas to Life</p>
 
 <p align="left">
   <a href="https://www.credly.com/badges/a580dc34-75db-4813-b293-f644c5d47e82">
