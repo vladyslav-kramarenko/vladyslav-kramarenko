@@ -33,7 +33,7 @@ https://simpleicons.org/
   </a>
 </p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/kramarenkoVlad?theme=nord)
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/kramarenkoVlad?theme=nord)-->
 
 💻 **Languages and Tools:** 🛠️<br>
 
