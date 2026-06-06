@@ -44,6 +44,12 @@ https://simpleicons.org/
 ![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?style=flat&logo=google&logoColor=white)
 ![Apps Script](https://img.shields.io/badge/-Apps_Script-0F9D58?style=flat&logo=google&logoColor=white)
 
+<!-- Asana Stats -->
+<h2 align="center">📋 Asana Activity (last 30 days)</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vladyslav-kramarenko/asana-tracker/main/assets/asana-chart.svg" alt="Asana Tasks Closed per Day">
+</p>
+
 <!-- Connect Section -->
 <h2 align="center">Let's Connect! 🤝</h2>
 <p align="center">Feel free to reach out if you want to discuss collaboration, job opportunities, or just chat about technology!</p>
